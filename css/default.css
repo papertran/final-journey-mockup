@@ -1,0 +1,17 @@
+html {
+  background: url(../assets/background.jfif) no-repeat center center fixed;
+  background-size: cover;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+.leading-extra-tight {
+  line-height: 0.75;
+}
+
+.main-heading {
+  font-family: Yellowtail, sans-serif;
+}
