@@ -4,7 +4,7 @@
 
 @layer components {
   .btn {
-    @apply transition transform hover:-translate-y-0.5  inline-flex items-center px-2 py-1 sm:px-3 sm:py-2 font-medium border border-transparent text-xs sm:text-base leading-4  rounded-md shadow-sm text-white focus:outline-none;
+    @apply transition transform hover:-translate-y-0.5  inline-flex items-center px-2 py-1 sm:px-3 sm:py-2 font-medium border border-transparent text-base leading-4  rounded-md shadow-sm text-white focus:outline-none;
   }
   .link {
     @apply transition transform hover:-translate-y-0.5;
